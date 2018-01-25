@@ -1,0 +1,28 @@
+@charset "UTF-8";
+#container .list{
+    color: #666666;
+    font-size: 19px;
+    width: 908px;
+}
+#container .about{
+    color: #666666;
+    font-size: 19px;
+}
+#container .about h2{
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px dashed #999999;
+    padding: 0 0 15px 0;
+    font-size: 29px;
+    font-weight: normal;
+}
+#container .about p{
+    line-height: 2em;
+    margin: 20px 0;
+    text-indent: 40px;
+}
+#container .about address{
+    line-height: 1.6em;
+    margin: 20px 0;
+    font-style: normal;
+}
